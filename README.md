@@ -4,6 +4,7 @@ Video görüntüsünde aynı anda bir insan ve bir forklifti algılayıp tanıml
 İnsan ve forklift için bir veri setinden faydalanıyoruz. Bu veri setini kaggle üzerinde indiriyoruz. ( https://www.kaggle.com/datasets/hakantaskiner/personforklift-dataset?resource=download ) 
 İndirdiğimiz bu veri setini YOLOv5 ile eğitiyoruz. YOLOV5 Nesne Tespiti(Object Detection); fotoğraflardaki, videolardaki ve gerçek zamanlı görüntülerdeki nesneleri tespit etmeye odaklanan bilgisayarlı görü ve görüntü işleme ile ilgili bir bilgisayar teknolojisidir. 
  
+#TEKNİK KISIMLAR
 https://github.com/ultralytics/yolov5 girdikten sonra Colab üzerinden çalışmaya devam ediyoruz. 
 
 
